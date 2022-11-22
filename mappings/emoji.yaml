@@ -8,15 +8,17 @@
 ":I": 😬
 ":r": 🙄
 ":z": 🤐
-":oo": 🥺
+":ooo": 🥺̇
 "xxo": 😵
 ":f": 🤬
 ":<": 😤
-ssh: 🤫
+sssh: 🤫
 lol: 😂
 rofl: 🤣
 0-0: 😎
+":tu": ㋡­
 # symbols
+recycle: ♲
 world: 🌏
 globe: 🌐
 compass: 🧭
@@ -27,9 +29,7 @@ mountain: ⛰
 splash: 💦
 /-/: ⚡
 fire: 🔥
-sun: ☀
 rain: 🌧
-moon: 🌕
 rainbow: 🌈
 medal: 🏅
 bball: 🏀
@@ -40,9 +40,11 @@ bell/: 🔕
 ok: 👌
 up: 👆
 down: 👇
-"+ ": 👍
-"- ": 👎
-wai: 🙏
+"left": 👈
+"right": 👉
+"+1": 👍
+"-1": 👎
+thx: 🙏
 shake: 🤝
 horns: 🤟
 callme: 🤙
@@ -50,6 +52,7 @@ win: ✌
 wave: 👋
 brain: 🧠
 eyes: 👀
+bump: 👊
 # people
 # animals
 rat: 🐀
@@ -65,7 +68,7 @@ shrimp: 🦐
 lobster: 🦞
 crab: 🦀
 squid: 🦑
-# plants 
+# plants
 rose: 🌹
 sunflower: 🌻
 bouquet: 💐
@@ -82,6 +85,7 @@ chili: 🌶
 "egg ": 🥚
 # food
 cake: 🎂
+burrito: 🌯
 beer: 🍺
 wine: 🍷
 cheers: 🍻
@@ -90,7 +94,27 @@ mate: 🧉
 clink: 🥂
 ice: 🧊
 # transport
+ovo: 🚲
 bike: 🚲
 car: 🚗
 traffic: 🚥
 ufo: 🛸
+plane: ✈
+#Other
+danse: 💃
+dance: 💃
+party: 🎉
+fete: 🎉
+poo: 💩
+#kaomoji
+flip: "(╯‵Д′)╯彡┻━┻"
+bear: "ʕ°ᴥ°ʔ"
+cat: "(^≗ω≗^)"
+unflip: "┬─┬ノ(ಠ_ಠノ)"
+music: "♫┗(＾0＾)┓♫"
+shrug: "¯\\_(ツ)_/¯"
+yay: "＼(｀0´)／"
+diable: "(屮'Д')屮"
+happy: "٩(◕‿◕｡)۶"
+sad: "(｡•́︿•̀｡)"
+zalgo: H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘ ̶̧̨̱̹̭̯ͧ̾ͬC̷̙̲̝͖ͭ̏ͥͮ͟Oͮ͏̮̪̝͍M̲̖͊̒ͪͩͬ̚̚͜Ȇ̴̟̟͙̞ͩ͌͝Sͯ

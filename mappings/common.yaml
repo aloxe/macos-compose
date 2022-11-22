@@ -1,26 +1,52 @@
 # arrows
--^: ↑
--v: ↓
-->: →
-<-: ←
-<->: ↔
-^-v: ↕
-^\: ↖
-\v: ↗
-v/: ↙
-\v: ↘
+"-<": "←"  # LEFTWARDS ARROW
+"<-": "←"  # LEFTWARDS ARROW
+"-^": "↑"  # UPWARDS ARROW
+"|^": "↑"  # UPWARDS ARROW
+"^|": "↑"  # UPWARDS ARROW
+">|": "↑"  # UPWARDS ARROW
+"->": "→"  # RIGHTWARDS ARROW
+"-v": "↓"  # DOWNWARDS ARROW
+"|<": "↓"  # DOWNWARDS ARROW
+"<|": "↓"  # DOWNWARDS ARROW
+"<->": "↔"  # LEFT RIGHT ARROW (kragen's)
+"<j": "↵"  # DOWNWARDS ARROW WITH CORNER LEFTWARDS
+"zz>": "↯"  # DOWNWARDS ZIGZAG ARROW
+"^v": ↕
+"^\\": ↖
+"/^": ↗
+"<\\": ↖
+"/<": ↗
+"v/": ↙
+"\\v": ↘
+" <>": "⟷"
+" <=>" : "⇌"
+"=>": "⇒"  # RIGHTWARDS DOUBLE ARROW
+"=<": "⇐"  # LEFTWARDS DOUBLE ARROW
+" =<>": "⇔"  # LEFT RIGHT DOUBLE ARROW
+
 # punctuation
 --: ‒
+.,: ·
+.-: ·
+.>: ›
+.<: ‹︎
+︎!!: ¡
+??: ¿
+# Spaces
+"  " : " " # NO-BREAK SPACE
+" .": " " # PUNCTUATION SPACE
 # math
+xx: ×
 +-: ±
-c/: ¢
-L-: £
-Y=: ¥
 ^1: ¹
 ^2: ²
+^3: ³
 oo: °
-..: ·
+"%0": ‰
+"%o": ‰
 # circles
 oc: ©
 or: ®
-
+tm: ™
+sm: ℠
